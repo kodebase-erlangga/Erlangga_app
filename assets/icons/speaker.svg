@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg657"
+   xml:space="preserve"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs661"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath671"><path
+         d="M 0,24 H 24 V 0 H 0 Z"
+         id="path669" /></clipPath></defs><g
+     id="g663"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,32)"><g
+       id="g665"><g
+         id="g667"
+         clip-path="url(#clipPath671)"><g
+           id="g673"
+           transform="translate(16.5,5.5)"><path
+             d="m 0,0 c 0,3.313 -2.687,4 -6,4 h -6 c -1.657,0 -3,1.343 -3,3 v 3 c 0,1.657 1.343,3 3,3 h 6 c 3.313,0 6,0.687 6,4 z"
+             style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path675" /></g><g
+           id="g677"
+           transform="translate(6.6602,9.9424)"><path
+             d="m 0,0 3.148,-6.863 c 0.644,-1.449 -0.416,-3.079 -2.001,-3.079 -0.974,0 -1.856,0.573 -2.252,1.463 l -4.049,9.037"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path679" /></g><g
+           id="g681"
+           transform="translate(21.5,9.5)"><path
+             d="M 0,0 1,-0.5"
+             style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path683" /></g><g
+           id="g685"
+           transform="translate(21.5,18.5)"><path
+             d="M 0,0 1,0.5"
+             style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path687" /></g><g
+           id="g689"
+           transform="translate(21.5,14)"><path
+             d="M 0,0 H 1"
+             style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path691" /></g></g></g></g></svg>

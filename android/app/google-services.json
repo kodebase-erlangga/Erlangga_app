@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "20086585134",
+    "project_id": "erl-auth",
+    "storage_bucket": "erl-auth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20086585134:android:83dae39af7a16873446cbf",
+        "android_client_info": {
+          "package_name": "com.example.erl_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20086585134-1jnaigjesdnv21u0oep07f505gml8n4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.erl_app",
+            "certificate_hash": "3274c5f8bfaed6d842e132dc3844e29f8ddc00f1"
+          }
+        },
+        {
+          "client_id": "20086585134-d9shhhbch9c0njj0icct4lbmc9ql1vtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIZkiMW8-WLQEzyJ5wx1pGvftjACV9l9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20086585134-d9shhhbch9c0njj0icct4lbmc9ql1vtt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,35 @@
+buildscript {
+    ext.kotlin_version = '2.0.21' // Set the correct Kotlin version
+
+    repositories {
+        google()  // Required for Firebase and Google Services
+        mavenCentral()  // Already present, but confirm it's in your file
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:8.0.2' // Ensure this is the correct version for your Flutter SDK
+        classpath 'com.google.gms:google-services:4.4.2'  // Firebase services classpath
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"  // Kotlin plugin version
+    }
+}
+
+allprojects {
+    repositories {
+        google()  // Required for Firebase and other dependencies
+        mavenCentral()
+    }
+}
+
+rootProject.buildDir = "../build"
+
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+}
+
+subprojects {
+    project.evaluationDependsOn(":app")
+}
+
+tasks.register("clean", Delete) {
+    delete rootProject.buildDir
+}
